@@ -266,6 +266,10 @@ __pycache__/
 *.pyc
 *.DS_Store
 
+*.dev.json
+*.dev.sh
+**/aelf/keys/*
+
 .vs/
 slnx.sqlite
 /AElf.Automation.RpcPerformance/Properties
